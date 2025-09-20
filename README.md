@@ -3,7 +3,7 @@
 <p aling="center">
 💻 Back-end Developer | 🚀 Constant Learner | ⚡ Problem Solver  
 </p>
-I'm a Backend Developer with 1 year of experience, mainly working with **PHP** and **Laravel**. Currently, I’m focused on improving my skills in building reliable and scalable systems, as well as expanding my knowledge in other backend technologies.  
+I'm a Backend Developer with 1 year of experience, mainly working with PHP and Laravel. Currently, I’m focused on improving my skills in building reliable and scalable systems, as well as expanding my knowledge in other backend technologies.  
 
 I enjoy solving problems through code, learning new technologies, and turning ideas into real-world solutions. While my main expertise is backend development, I also explore tools and practices that help me become a better developer every day.   
 
