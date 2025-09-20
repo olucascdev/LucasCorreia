@@ -15,6 +15,10 @@ I am a back-end developer who is constantly learning. My passion is applying my 
 </p>
 
 #
+### 📊 Stats
+
+![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=olucascdev&show_icons=true&theme=gruvbox)
+
 
 ### 🧰 Languages and Tools
 
